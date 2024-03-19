@@ -1,1 +1,1 @@
-# PowerBI
+# PowerBI dashboard for Data Analytics Survey of people in the field of Data Analytics primarily. A sample dashboard made for practicing old concepts of data cleaning, data transformation and visualisation.
